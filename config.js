@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/Kosheru',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Search',
+			icon: 'search',
+			link: 'https://eu.startpage.com/do/mypage.pl?prfe=bdb6e6b34ab3a83d7f93b1a37455a63ee89971b5bebaa81aa41468160e6d012ad7bab86720e19ce4bf1b8040106bfa4f36a7117d097d3817935416b2e9abdfa34537bb0b63cca360d2f3ed30b60561',
 		},
 		{
 			id: '3',
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.apple.com',
 		},
 		{
 			id: '2',
