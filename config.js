@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Kosh Hansen',
+	name: 'Mayaine',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Ahoy!',
-	greetingAfternoon: 'Hoy!',
-	greetingEvening: 'Food...',
-	greetingNight: 'zzzz',
+	greetingMorning: 'Good Morning',
+	greetingAfternoon: 'Good Afternoon',
+	greetingEvening: 'Good Evening',
+	greetingNight: 'Good Night',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Customize',
 			icon: 'github',
-			link: 'https://github.com/Kosheru',
+			link: 'https://github.com/Acercandr0/Latin-Accent',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'stackoverflow',
+			icon: 'stackoverflow',
+			link: 'https://stackoverflow.com/questions',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Music',
+			icon: 'music',
+			link: 'https://www.youtube.com/@VirginBabylonRecords',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Drive',
+			icon: 'drive',
+			link: 'https://catbox.moe/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mozilla Docs',
+					link: 'https://developer.mozilla.org/en-US/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Voice changer',
+					link: 'https://github.com/w-okada/voice-changer',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Temp mail',
+					link: 'https://temp-mail.org/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Search operator',
+					link: 'https://ahrefs.com/blog/google-advanced-search-operators/',
 				},
 			],
 		},
